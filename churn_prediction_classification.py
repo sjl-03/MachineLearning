@@ -1,0 +1,1 @@
+# Objective: Create a classification model to predict whether a customer will churn (i.e., stop using a service).
